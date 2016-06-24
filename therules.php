@@ -33,7 +33,6 @@ function whowillwin($p1choice, $p2choice) {
 		;}
 
 	}
-echo whowillwin(S,P);
  ?>
 
 
